@@ -1,0 +1,67 @@
+
+h1{
+    font-family:Helvetica;
+    font-size:84px;
+    font-weight:bold;
+    color:khaki;
+    text-align: horizontal;
+}
+
+.category-image{
+    text-align:horizontal;
+    margin-bottom:50px;
+    margin-top: 50px;
+}
+
+.image{
+    position:center;
+}
+
+.image img{
+    width:980px;
+    height:200px;
+}
+
+.image h1{
+    position:absolute;
+    width:100%;
+    color:khaki;
+    line-height:100px;
+    margin:50;
+}
+
+h2{
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+}
+
+h3{
+    font-family:Helvetica;
+    font-weight:bold;
+}
+
+p{
+    font-family:Helvetica;
+}
+
+strong{
+    font-family:Helvetica;
+    font-weight:bold;
+    color:blue;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+
+.frames{
+    background-color:lightcoral;
+}
+
+.paint{
+    background-color:skyblue;
+}
+
+
